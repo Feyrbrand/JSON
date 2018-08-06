@@ -3,7 +3,6 @@
     application usage: transition security
     version 0.2.0
     -added reward and transactions
-    Mark Schatz
 */  
 
 const SHA256 = require('crypto-js/sha256');
